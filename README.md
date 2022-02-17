@@ -2,7 +2,7 @@
 
 [Neofetch image](https://commons.wikimedia.org/wiki/Category:Adult_Wikipe-tan_wearing_swimwear#/media/File:Wikipe_tan_wearing_a_bikini_by_Kasuga39.svg)
 
-[Wallpaper 1440p](https://unsplash.com/photos/2gNx4aKQYvY)
+[Wallpaper \[1440p\]](https://unsplash.com/photos/2gNx4aKQYvY)
 
 ## Software
 
