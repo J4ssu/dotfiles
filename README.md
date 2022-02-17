@@ -1,10 +1,8 @@
-# dotfiles (WIP)
+# dotfiles
 
-Neofetch [image source](https://commons.wikimedia.org/wiki/Category:Adult_Wikipe-tan_wearing_swimwear#/media/File:Wikipe_tan_wearing_a_bikini_by_Kasuga39.svg)
+[Neofetch image](https://commons.wikimedia.org/wiki/Category:Adult_Wikipe-tan_wearing_swimwear#/media/File:Wikipe_tan_wearing_a_bikini_by_Kasuga39.svg)
 
-Wallpaper [source](https://unsplash.com/photos/2gNx4aKQYvY)
-
-For the curious people: The song playing is `Time - Project Red`
+[Wallpaper 1440p](https://unsplash.com/photos/2gNx4aKQYvY)
 
 ## Software
 
@@ -15,6 +13,6 @@ For the curious people: The song playing is `Time - Project Red`
 | Browser | [Firefox](https://www.mozilla.org/en-US/firefox/new/) |
 | Shell | Bash |
 
-## Rice!
+## Screenshots
 
 ## Notes
